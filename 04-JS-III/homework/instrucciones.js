@@ -1,0 +1,1 @@
+Arrays: son formulas que podemos crear y luego buscar en el mar de datos cuando lo necesitemos.
