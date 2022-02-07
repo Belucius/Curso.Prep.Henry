@@ -1,0 +1,1 @@
+Funciones Callback: nos permite pasar de funcion a funcion . E invocar de forma externa para completar una funcion. 
